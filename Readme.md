@@ -17,6 +17,7 @@
 11. "fs:read": "node src/fs/read",
 12. "fs:rename": "node src/fs/rename"
 13. "worker": "node src/wt/worker"
+14. "cp": "node src/cp/cp"
 
 Кроме: 
 *  "node src/cli/args --Value 2 --Value 3",
